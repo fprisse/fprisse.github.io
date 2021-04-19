@@ -1,8 +1,8 @@
 ---
 layout: "post"
-title: "Project Summaries @ Gemini Consulting"
+title: "Project Summaries @ Gemini"
 author: "Florent Prisse"
-permalink: /projects_goodfoot
+permalink: /projects_gemini
 date: "2021-04-19"
 ---
 

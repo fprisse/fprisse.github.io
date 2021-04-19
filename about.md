@@ -1,9 +1,7 @@
 ---
 layout: "post"
 title: "PROFESSIONAL EXPERIENCE"
-author: "Florent Prisse"
 permalink: /about
-date: "2021-04-19"
 ---
 
 ### 2011 to date : Consultant - Capgemini Consulting, Amsterdam

@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "RÉSUMÉ DES PROJETS @ CAPGEMINI INVENT"
+title: "RÉSUMÉ DES PROJETS @ INVENT"
 author: "Florent Prisse"
 permalink: /projects_invent_fr
 date: "2018-01-01"

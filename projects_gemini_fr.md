@@ -1,8 +1,8 @@
 ---
 layout: "post"
-title: "LE RÉSUMÉ DES PROJETS @ GEMINI CONSULTING"
+title: "LE RÉSUMÉ DES PROJETS @ GEMINI"
 author: "Florent Prisse"
-permalink: /projects_goodfoot_fr
+permalink: /projects_gemini_fr
 date: "2019-01-01"
 ---
 

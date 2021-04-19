@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "LE RÉSUMÉ DES PROJETS @ GOODFOOT CONSULTING"
+title: "LE RÉSUMÉ DES PROJETS @ GOODFOOT"
 author: "Florent Prisse"
 permalink: /projects_goodfoot_fr
 date: "2019-01-01"
