@@ -79,9 +79,9 @@ Wiskundse A+B, natuurkunde, scheikunde, biologie, economie I, engels, nederlands
 
 #### IT-Tools
 
-- Excell (expert), Powerpoint & Access
-- Infor EAM, IBM-Maximo
-- ETS, Jeckyl (markdown) & Red-Node (java)
+- Excell, Powerpoint & Access
+- Infor EAM, IBM-Maximo, Acad
+- ETS, html, php, js
 
 #### Languages
 
