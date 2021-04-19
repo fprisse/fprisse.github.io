@@ -3,17 +3,16 @@ layout: "post"
 title: "PROFESSIONAL EXPERIENCE"
 author: "Florent Prisse"
 permalink: /about
-date: "2019-01-01"
+date: "2021-04-19"
 ---
 
 ### 2011 to date : Consultant - Capgemini Consulting, Amsterdam
 
 Content matter expert on hardware innovation and asset management in asset intensive industries such as manufacturing, upstream energy and public infrastructure. Improving uptime and quality through equipment reliability and production control. Creating a near realtime view upon the state of the asset and process through:
 
-- Planning, scheduling and contactor management
-- Data driven predictive maintenance
-- Quantified quality assessment
-- Asset performance tracking
+- Performance management & Quality (Ops & AM)
+- Planning, scheduling and contractor management
+- Advanced Analytics
 
 [click here for project summaries](https://fprisse.github.io/projects_invent)
 
