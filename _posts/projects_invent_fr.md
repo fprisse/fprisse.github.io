@@ -1,5 +1,5 @@
 ---
-layout: "page"
+layout: "post"
 title: "RÉSUMÉ DES PROJETS @ CAPGEMINI INVENT"
 author: "Florent Prisse"
 permalink: /projects_invent_fr

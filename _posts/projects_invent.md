@@ -1,5 +1,5 @@
 ---
-layout: "page"
+layout: "post"
 title: "Project Summaries @ Invent"
 author: "Florent Prisse"
 permalink: /projects_invent

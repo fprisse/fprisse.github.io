@@ -1,11 +1,11 @@
 ---
-layout: page
-title: Florent E.N.E. Prisse
-permalink: /quiest/
+layout: "post"
+title: "Florent Prisse, 1972"
+author: "Florent Prisse"
+permalink: /quiest
+date: "2019-01-01"
 ---
 
-florent.prisse[at]capgemini.com
-+31 (0) 6 2506 8802
 
 ### EXPÉRIENCE PROFESSIONNELLE
 #### 2011 à ce jour: Consultant - Capgemini Consulting, Amsterdam

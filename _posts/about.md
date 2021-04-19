@@ -1,5 +1,5 @@
 ---
-layout: "page"
+layout: "post"
 title: "PROFESSIONAL EXPERIENCE"
 author: "Florent Prisse"
 permalink: /about

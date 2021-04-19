@@ -1,5 +1,5 @@
 ---
-layout: "page"
+layout: "post"
 title: "LE RÉSUMÉ DES PROJETS @ GOODFOOT CONSULTING"
 author: "Florent Prisse"
 permalink: /projects_goodfoot_fr

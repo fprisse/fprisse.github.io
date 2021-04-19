@@ -1,5 +1,5 @@
 ---
-layout: "page"
+layout: "post"
 title: "Project Summaries @ Goodfoot"
 author: "Florent Prisse"
 permalink: /projects_goodfoot
