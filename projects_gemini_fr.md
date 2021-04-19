@@ -1,9 +1,7 @@
 ---
 layout: "post"
 title: "LE RÉSUMÉ DES PROJETS @ GEMINI"
-author: "Florent Prisse"
 permalink: /projects_gemini_fr
-date: "2019-01-01"
 ---
 
 #### 2002: Projet Streamlead à Basell Polyolefins, Europe

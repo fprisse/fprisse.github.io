@@ -1,9 +1,7 @@
 ---
 layout: "post"
 title: "Florent Prisse, 1972"
-author: "Florent Prisse"
 permalink: /quiest
-date: "2019-01-01"
 ---
 
 

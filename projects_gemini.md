@@ -1,9 +1,7 @@
 ---
 layout: "post"
 title: "Project Summaries @ Gemini"
-author: "Florent Prisse"
 permalink: /projects_gemini
-date: "2021-04-19"
 ---
 
 **2002 : Project Streamlead at Basell Polyolefins, Europe**

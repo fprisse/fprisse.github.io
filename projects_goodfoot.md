@@ -1,9 +1,7 @@
 ---
 layout: "post"
 title: "Project Summaries @ Goodfoot"
-author: "Florent Prisse"
 permalink: /projects_goodfoot
-date: "2021-04-19"
 ---
 
 **2010 : Vodafone International**
