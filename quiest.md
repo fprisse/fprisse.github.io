@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Florent Prisse, 1972"
+title: "Curriculum vitae"
 permalink: /quiest
 ---
 
