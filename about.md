@@ -1,8 +1,10 @@
 ---
 layout: "post"
-title: "PROFESSIONAL EXPERIENCE"
+title: "Curriculum vitae"
 permalink: /about
 ---
+
+### PROFFESIONAL EXPERIENCE
 
 #### 2011 to date : Consultant - Capgemini Consulting, Amsterdam
 
