@@ -4,12 +4,6 @@ title: "RÉSUMÉ DES PROJETS @ INVENT"
 permalink: /projects_invent_fr
 ---
 
----
-layout: page
-title: RÉSUMÉ DES PROJETS @ CAPGEMINI INVENT
-permalink: /projects_invent_fr/
----
-
 #### 2017: Eriks SHV
 Nous avons revu le travail de déploiement opérationnel que nous avions effectué pour Shell dans le cadre d'une proposition de collaboration prolongée avec la firme Eriks, afin de devenir leur partenaire technologique en matière de surveillance des conditions (en anglais: ‘condition monitoring’).
 
@@ -33,7 +27,7 @@ chemin le plus court. Nous avons créé un modèle qui, dans les revues périodi
 des investissements, puisse inclure les risques du déploiement et du développement
 opérationnels. 
 
-#### 2015:Vopak Anvers, Belgique
+#### 2015: Vopak Anvers, Belgique
 Dans le cadre de l'intégration de trois terminaux chimiques, nous avons aidé à modéliser la demande opérationnelle des activités actuelles et projetées et avons ainsi constitué la base d'un réaménagement organisationnel pour l’allocation des travaux et le dimensionnement (sizing).  Consécutivement, nous avons réécrit les plansCapex à 5 ans et avons élaboré un futur plan du besoin d'effectifs.
 
 #### 2014: National Grid, Royaume-Uni

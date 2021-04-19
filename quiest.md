@@ -4,7 +4,6 @@ title: "Curriculum vitae"
 permalink: /quiest
 ---
 
-
 ### EXPÉRIENCE PROFESSIONNELLE
 #### 2011 à ce jour: Consultant - Capgemini Consulting, Amsterdam
 Expert en contenu sur l'innovation matérielle et la gestion d'actifs dans les iindustries à forte intensité d'actifs telles que la fabrication, l'énergie en amont et les infrastructures publiques. Amélioration de la disponibilité (uptime) et de la qualité par la fiabilité de l'équipement et le  contrôle de la production. Création d'une information en temps quasi réel (near realtime) sur l'état de l'actif et du processus par les:
