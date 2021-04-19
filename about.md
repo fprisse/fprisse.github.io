@@ -6,7 +6,7 @@ permalink: /about
 
 ### PROFFESIONAL EXPERIENCE
 
-#### 2011 to date : Consultant - Capgemini Consulting, Amsterdam
+#### 2011 to date : Consultant - Capgemini Invent, Amsterdam
 
 Content matter expert on hardware innovation and asset management in asset intensive industries such as manufacturing, upstream energy and public infrastructure. Improving uptime and quality through equipment reliability and production control. Creating a near realtime view upon the state of the asset and process through:
 
