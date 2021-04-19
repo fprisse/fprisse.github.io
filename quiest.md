@@ -13,6 +13,8 @@ Expert en contenu sur l'innovation matérielle et la gestion d'actifs dans les i
 - Évaluation quantifiée de la qualité
 - Suivi de la performance des actifs
 
+[click here for project summaries](https://fprisse.github.io/projects_invent_fr)
+
 #### 2003 - 2011: Consultant - Goodfoot Consulting, Amsterdam
 
 Conseiller à demande vers des projets à fort impact pour l'industrie de l'énergie en amont, dans les domaines de:
@@ -21,9 +23,13 @@ Conseiller à demande vers des projets à fort impact pour l'industrie de l'éne
 - La gestion de l'innovation
 - Le Service et la logistique sur le terrain (Contractor Management)
 
+[click here for project summaries](https://fprisse.github.io/projects_goodfoot_fr)
+
 #### 1999 - 2003: Consultant en Stratégie - Gemini Consulting, Utrecht / Londres
 
 Conseil stratégique et opérationnel spécialisé dans le changement à base de technologies de pointe.
+
+[click here for project summaries](https://fprisse.github.io/projects_gemini_fr)
 
 #### 1998 - 1999: Assistant - Shell Global Solutions, La Haye
 
