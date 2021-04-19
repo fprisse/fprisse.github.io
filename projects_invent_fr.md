@@ -1,4 +1,12 @@
 ---
+layout: "page"
+title: "RÉSUMÉ DES PROJETS @ CAPGEMINI INVENT"
+author: "Florent Prisse"
+permalink: /projects_invent_fr
+date: "2018-01-01"
+---
+
+---
 layout: page
 title: RÉSUMÉ DES PROJETS @ CAPGEMINI INVENT
 permalink: /projects_invent_fr/

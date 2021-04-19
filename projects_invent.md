@@ -1,7 +1,9 @@
 ---
-layout: page
-title: Project Summaries @ Capgemini Invent
+layout: "page"
+title: "Project Summaries @ Invent"
+author: "Florent Prisse"
 permalink: /projects_invent
+date: "2021-04-19"
 ---
 
 **2019 - 2020 LambWeston-Meyer**
