@@ -10,17 +10,17 @@ Content matter expert on hardware innovation and asset management in asset inten
 
 - Performance management & Quality (Ops & AM)
 - Planning, scheduling and contractor management
-- Advanced Analytics
+- Advanced analytics & Industrial IoT
 
 [click here for project summaries](https://fprisse.github.io/projects_invent)
 
 #### 2003 - 2011 : Consultant - Goodfoot Consulting, Amsterdam
 
-Boutique consultancy leading high impact projects for the Upstream Energy Industry, in the field of:
+Boutique consultancy leading high impact projects for asset intensive industries, in the field of:
 
-- Operational excellence (OEE)
-- Innovation management
-- Field Service & Logistics (Contractor Management)
+ - Innovation management
+ - Operational excellence (OEE)
+ - Field Service & Logistics (Contractor Management)
 
 [click here for project summaries](https://fprisse.github.io/projects_goodfoot)
 
@@ -30,13 +30,14 @@ Strategy and Operational Consultancy specialized in leading technology driven ch
 
 [click here for project summaries](https://fprisse.github.io/projects_gemini)
 
-#### 1999 - 1999 : Paralegal - Allen & Overy
+#### 1999 - 1999 : Legal aid - Allen & Overy
 
-Assistant within the Mergers & Acquisition section
+Intern at Mergers & Acquisition department
 
 #### 1998 - 1999 : Assistant - Shell Global Solutions, the Hague
 
-Unification of hiring procedures in UK and NL Setting up standalone recruiting agency for SSI
+ - Unification of hiring procedures in UK and NL
+ - Setting up standalone recruiting agency for SSI
 
 ### EDUCATION
 
@@ -48,7 +49,7 @@ LLM in Dutch law with specializations in:
 - European Competition Law
 - Corporate Governance Final thesis: Role of government representative in supervisory board of newly privatized utilities
 
-#### 1992 - 1993 : Economics - University of Amsterdam
+#### 1992 - 1994 : Economics - University of Amsterdam
 
 #### 1990 – 1992 : VWO - β - Rijnlands Lyceum Oegstgeest
 
