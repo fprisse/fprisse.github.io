@@ -70,7 +70,7 @@ Wiskundse A+B, natuurkunde, scheikunde, biologie, economie I, engels, nederlands
 #### IT-Tools
 - Excell, Powerpoint & Access
 - Infor EAM, IBM-Maximo, Acad
-- ETS, html, php, js
+- ETS, R, php, js, html
 
 #### Languages
 - English: Primary Working Language
