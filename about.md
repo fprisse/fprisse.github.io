@@ -5,7 +5,6 @@ permalink: /about
 ---
 
 ### PROFFESIONAL EXPERIENCE
-
 #### 2011 to date : Consultant - Capgemini Consulting, Amsterdam
 Content matter expert on hardware innovation and asset management in asset intensive industries such as manufacturing, upstream energy and public infrastructure. Improving uptime and quality through equipment reliability and production control. Creating a near realtime view upon the state of the asset and process through:
 
@@ -35,9 +34,9 @@ Intern at Mergers & Acquisition department
 #### 1998 - 1999 : Assistant - Shell Global Solutions, the Hague
  - Unification of hiring procedures in UK and NL
  - Setting up standalone recruiting agency for IT
+
 ### EDUCATION
 #### 1993 – 1999 : Law - University of Amsterdam
-
 LLM in Dutch law with specializations in:
 - Intellectual Property Law
 - European Competition Law
@@ -69,7 +68,6 @@ Wiskundse A+B, natuurkunde, scheikunde, biologie, economie I, engels, nederlands
 - CRESTA - Access Requirement, Safety at Height and Rescue for Wind Industry Technicians
   
 #### IT-Tools
-
 - Excell, Powerpoint & Access
 - Infor EAM, IBM-Maximo, Acad
 - ETS, html, php, js
