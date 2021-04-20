@@ -2,15 +2,11 @@
 layout: default
 ---
 
-<div class="posts">
+<div class="pages">
   {% for page in site %}
-    <article class="post">
+    <article class="page">
 
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ page.title }}</a></h1>
-
-      <div class="author">
-        {{ page.author }}
-      </div>
+      <h1><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h1>
 
       <div class="entry">
         {{ page.excerpt }}
