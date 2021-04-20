@@ -69,10 +69,11 @@ Wiskundse A+B, natuurkunde, scheikunde, biologie, economie I, engels, nederlands
 - CRESTA - Access Requirement, Safety at Height and Rescue for Wind Industry Technicians
   
 #### IT-Tools
-- Excell (expert), Powerpoint & Access
-- Infor EAM, IBM-Maximo
-- ETS, Jeckyl (markdown) & Red-Node (java)
-  
+
+- Excell, Powerpoint & Access
+- Infor EAM, IBM-Maximo, Acad
+- ETS, html, php, js
+
 #### Languages
 - English: Primary Working Language
 - Dutch: Mother Tongue
