@@ -84,3 +84,6 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+
+# To make pages in seprate directory work
+include: ['_pages']
