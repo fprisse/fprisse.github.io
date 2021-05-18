@@ -9,31 +9,28 @@ Florent is a senior expert and thought leader in data-driven decision making and
 ## Experience
 ### Consultant
 *2011 – to date Capgemini Consulting, Amsterdam*
-Content matter expert on hardware innovation and performance management in asset intensive industries such as manufacturing, upstream energy and public infrastructure. Improving uptime and quality through equipment reliability and production control. Creating a near real-time view upon the state of the asset and process through:
-•	Performance management & quality (Ops & AM)
-•	Planning, scheduling & contractor management
-•	Advanced analytics & Industrial IoT
+Content matter expert on hardware innovation and performance management in asset intensive industries such as manufacturing, upstream energy and public infrastructure. Improving uptime and quality through equipment reliability and production control. Creating a near real-time view upon the state of the asset and process through:  
+•	Performance management & quality (Ops & AM)  
+•	Planning, scheduling & contractor management  
+•	Advanced analytics & Industrial IoT  
   
 [click here for project summaries](https://fprisse.github.io/projects_invent)  
-  
 ### Practice lead APM
 *2018 - 2020 Capgemini Group, Paris*
 Design of the suite of solutions for data-driven Asset Management: This was done in close cooperation with selected clients and trusted suppliers. Defined a cross-disciplinary approach for Asset Performance Management. This includes a step-by-step implementation program to 1) upgrade asset registry, planning and execution tracking 2) introduce condition monitoring and asset health analytics.
 ### Operations Advisor
 *2003 – 2011 Goodfoot Consulting, Amsterdam*
-Boutique consultancy leading high impact projects for asset intensive industries, in the field of:
-•	Innovation management
-•	Operational excellence (OEE)
+Boutique consultancy leading high impact projects for asset intensive industries, in the field of:  
+•	Innovation management  
+•	Operational excellence (OEE)  
 •	Field Service & Logistics (Contractor Management)  
   
 [click here for project summaries](https://fprisse.github.io/projects_goodfoot) 
-
 ### Strategy Consultant
 *1999 – 2003 Gemini Consulting, Utrecht/London*
 Strategy and Operational Consultancy specialized in leading technology driven change  
   
 [click here for project summaries](https://fprisse.github.io/projects_gemini)
-  
 ### Intern
 *1999 Allen & Overy*
 Intern at Mergers & Acquisition department
