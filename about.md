@@ -4,7 +4,7 @@ title: "Curriculum Vitae"
 permalink: /about
 ---
 
-Florent is a senior expert and thought leader in data-driven decision making and optimisation for process industries: “Industry X.0 & IoT”. Hands-on supervision of the improvement process from advanced analytics, technological innovation to implementation and performance management. Brings simplicity and transparency. Florent is a vigilant defender of inclusiveness and diversity: “Stuff that adds up” for the benefit of client, employer and society at large.  
+Florent is a senior expert and thought leader in data-driven decision making and optimisation for asset intensive industries: “Industry X.0 & IoT”. Hands-on supervision of the improvement process from advanced analytics, technological innovation to implementation and performance management. Brings simplicity and transparency. Florent is a vigilant defender of inclusiveness and diversity: “Stuff that adds up” for the benefit of client, employer and society at large.  
   
 ## Experience
 ### Consultant
