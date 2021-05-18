@@ -8,7 +8,7 @@ Florent is a senior expert and thought leader in data-driven decision making and
   
 ## Experience
 ### Consultant
-*2011 – to date Capgemini Consulting, Amsterdam*  
+**2011 – to date Capgemini Consulting, Amsterdam**  
 Content matter expert on hardware innovation and performance management in asset intensive industries such as manufacturing, upstream energy and public infrastructure. Improving uptime and quality through equipment reliability and production control. Creating a near real-time view upon the state of the asset and process through:  
 •	Performance management & quality (Ops & AM)  
 •	Planning, scheduling & contractor management  
@@ -16,10 +16,10 @@ Content matter expert on hardware innovation and performance management in asset
   
 [click here for project summaries](https://fprisse.github.io/projects_invent)  
 ### Practice lead APM
-*2018 - 2020 Capgemini Group, Paris*  
+**2018 - 2020 Capgemini Group, Paris**  
 Design of the suite of solutions for data-driven Asset Management: This was done in close cooperation with selected clients and trusted suppliers. Defined a cross-disciplinary approach for Asset Performance Management. This includes a step-by-step implementation program to 1) upgrade asset registry, planning and execution tracking 2) introduce condition monitoring and asset health analytics.
 ### Operations Advisor
-*2003 – 2011 Goodfoot Consulting, Amsterdam*  
+**2003 – 2011 Goodfoot Consulting, Amsterdam**  
 Boutique consultancy leading high impact projects for asset intensive industries, in the field of:  
 •	Innovation management  
 •	Operational excellence (OEE)  
@@ -27,25 +27,25 @@ Boutique consultancy leading high impact projects for asset intensive industries
   
 [click here for project summaries](https://fprisse.github.io/projects_goodfoot) 
 ### Strategy Consultant
-*1999 – 2003 Gemini Consulting, Utrecht/London*  
+**1999 – 2003 Gemini Consulting, Utrecht/London**  
 Strategy and Operational Consultancy specialized in leading technology driven change  
   
 [click here for project summaries](https://fprisse.github.io/projects_gemini)
 ### Intern
-*1999 Allen & Overy*  
+**1999 Allen & Overy**  
 Intern at Mergers & Acquisition department
 ### Intern
-*1998 – 1999 Shell Global Solutions, the Hague*  
+**1998 – 1999 Shell Global Solutions, the Hague**  
 Helped to set-up a corporate recruiting agency for IT professionals
 ## Education
 ### LLM Corporate Governance
-*1999 University of Amsterdam*  
+**1999 University of Amsterdam**  
 Final thesis: Role of the government representative on supervisory boards of utility companies
 2nd Major in Intellectual property law
 ### Undergraduate program Economics 
-*1993 University of Amsterdam*
+**1993 University of Amsterdam**
 ### VWO – β
-*1992 Rijnlands Lyceum Oegstgeest*  
+**1992 Rijnlands Lyceum Oegstgeest**  
 math, physics, chemistry biology, economics, English, Dutch
 ## Other
 ### Activities
