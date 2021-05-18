@@ -37,33 +37,32 @@ Intern at Mergers & Acquisition department
 ### Intern
 *1998 – 1999 Shell Global Solutions, the Hague*
 Helped to set-up a corporate recruiting agency for IT professionals
-
 ## Education
 ### LLM Corporate Governance
 *1999 University of Amsterdam*
 Final thesis: Role of the government representative on supervisory boards of utility companies
 2nd Major in Intellectual property law
-## Undergraduate program Economics 
+### Undergraduate program Economics 
 *1993 University of Amsterdam*
-## VWO – β
+### VWO – β
 *1992 Rijnlands Lyceum Oegstgeest*
 math, physics, chemistry biology, economics, English, Dutch
-
-## Other Activities
+## Other
+### Activities
 Offshore Competition sailing: Winsome @ Cowes & Cephei @ Frejus
 Choir singing
 Evening Classes Architecture - TU Delft
 Skipper of the training institute of K.N.Z.& R.V
 The training institute of the Royal Dutch Sailing Association trains youth between 15 and 22 years of age to master yachts at sea. This includes navigation, meteorology, and ship handling
-## Skills & Permits
+### Skills & Permits
 NL Driving License (b) & Boating Permit (vaarbewijs I+II)
 Radio Operator License
 NOGEPA/OLF - Offshore Safety Induction and Emergency Response
 CRESTA - Access & Evacuation for Wind Industry Technicians
-## Tools
+### Tools
 Engineering: Infor EAM, IBM-Maximo, ACAD
 Coding: ETS, R, php, js, html
 Office: Excel, PowerPoint, Studio
-## Languages
+### Languages
 English: Primary Working Language
 Dutch: Mother Tongue
