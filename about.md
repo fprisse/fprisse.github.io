@@ -46,7 +46,7 @@ Final thesis: Role of the government representative on supervisory boards of uti
 **1993 University of Amsterdam**
 ### VWO – β
 **1992 Rijnlands Lyceum Oegstgeest**  
-math, physics, chemistry biology, economics, English, Dutch
+math, physics, chemistry, biology, economics, English, Dutch
 ## Other
 ### Activities
 Offshore Competition sailing: Winsome @ Cowes & Cephei @ Frejus  
