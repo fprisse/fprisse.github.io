@@ -53,7 +53,7 @@ Offshore Competition sailing: Winsome @ Cowes & Cephei @ Frejus
 Choir singing  
 Evening Classes Architecture - TU Delft  
 Skipper of the training institute of K.N.Z.& R.V  
-*The training institute of the Royal Dutch Sailing Association trains youth between 15 and 22 years of age to master yachts at sea. This includes navigation, meteorology, and ship handling*
+```The training institute of the Royal Dutch Sailing Association trains youth between 15 and 22 years of age to master yachts at sea. This includes navigation, meteorology, and ship handling```
 ### Skills & Permits
 NL Driving License (b) & Boating Permit (vaarbewijs I+II)  
 Radio Operator License  
