@@ -49,20 +49,20 @@ Final thesis: Role of the government representative on supervisory boards of uti
 math, physics, chemistry biology, economics, English, Dutch
 ## Other
 ### Activities
-Offshore Competition sailing: Winsome @ Cowes & Cephei @ Frejus
-Choir singing
-Evening Classes Architecture - TU Delft
-Skipper of the training institute of K.N.Z.& R.V
-The training institute of the Royal Dutch Sailing Association trains youth between 15 and 22 years of age to master yachts at sea. This includes navigation, meteorology, and ship handling
+Offshore Competition sailing: Winsome @ Cowes & Cephei @ Frejus  
+Choir singing  
+Evening Classes Architecture - TU Delft  
+Skipper of the training institute of K.N.Z.& R.V  
+*The training institute of the Royal Dutch Sailing Association trains youth between 15 and 22 years of age to master yachts at sea. This includes navigation, meteorology, and ship handling*
 ### Skills & Permits
-NL Driving License (b) & Boating Permit (vaarbewijs I+II)
-Radio Operator License
-NOGEPA/OLF - Offshore Safety Induction and Emergency Response
-CRESTA - Access & Evacuation for Wind Industry Technicians
+NL Driving License (b) & Boating Permit (vaarbewijs I+II)  
+Radio Operator License  
+NOGEPA/OLF - Offshore Safety Induction and Emergency Response  
+CRESTA - Access & Evacuation for Wind Industry Technicians  
 ### Tools
-Engineering: Infor EAM, IBM-Maximo, ACAD
-Coding: ETS, R, php, js, html
-Office: Excel, PowerPoint, Studio
+Engineering: Infor EAM, IBM-Maximo, ACAD  
+Coding: ETS, R, php, js, html  
+Office: Excel, PowerPoint, Studio  
 ### Languages
-English: Primary Working Language
-Dutch: Mother Tongue
+English: Primary Working Language  
+Dutch: Mother Tongue  
