@@ -4,7 +4,7 @@ title: "Project Summaries @ Invent"
 permalink: /projects_invent
 ---
 
-**2020 - 2022 FreislandCampina**  
+**2020 - 2022 FrieslandCampina**  
 Factory Liason and Industry x0 Expert for FrieslandCampina's smartplant team: A use-case driven program to improve performance in the field of Asset Performace. Taking Asset Health and Quality statistics as a foundation we developed bespoke tools to adress prioritised issues in the field of material loss, quality, energy consumption and unplanned downtime. For this we combined in-cloud tools for exploratory analytics with sturdy on-premise implementations of our findings.
 
 
