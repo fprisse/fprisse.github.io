@@ -4,11 +4,17 @@ title: "RÉSUMÉ DES PROJETS @ INVENT"
 permalink: /projects_invent_fr
 ---
 
-#### 2017: Eriks SHV
-Nous avons revu le travail de déploiement opérationnel que nous avions effectué pour Shell dans le cadre d'une proposition de collaboration prolongée avec la firme Eriks, afin de devenir leur partenaire technologique en matière de surveillance des conditions (en anglais: ‘condition monitoring’).
+#### 2020 - 2022 FrieslandCampina
+Factory Liason et Industry x0 Expert pour l'équipe smartplant de FrieslandCampina : Un programme axé sur les cas d'utilisation pour améliorer les performances dans le domaine de la performance des actifs. En se basant sur les statistiques de santé et de qualité des actifs, nous avons développé des outils sur mesure pour traiter les problèmes prioritaires dans le domaine des pertes de matériaux, de la qualité, de la consommation d'énergie et des temps d'arrêt non planifiés. Pour cela, nous avons combiné des outils in-cloud pour l'analyse exploratoire avec des implémentations robustes sur site de nos résultats.
 
-#### 2017: DSM Nutritional Products, Suisse et Inde
-L'organisation P2P centralisée de DSM avait du mal à satisfaire DSM Nutritional Products (DNP). Plutôt que de résoudre les problèmes individuels, nous avons examiné le flux de travail P2P dans une perspective de processus de base, ce qui révéla (souvent facilement réalisé) des opportunités pour un meilleur  alignement. Actuellement, nous sommes en train de rédiger une solution intégrale.
+#### 2019 - 2020 LambWeston-Meyer
+Feuille de route de l'industrie 4.0 le travail comprenait une évaluation des capacités, une modélisation volumétrique et une analyse de rentabilité de haut niveau.
+
+#### 2018 - 2020 : Responsable de la gestion de la performance des actifs
+Conception de la suite de solutions pour la gestion des actifs pilotée par les données pour le groupe Capgemini : Cela se fait en étroite collaboration avec nos principaux clients et fournisseurs de confiance. Sur la base de notre expérience des projets de maintenance et de gestion des actifs, nous avons défini une approche interdisciplinaire pour planifier et exécuter la mise en œuvre de la gestion des performances des actifs pour nos clients. Cette approche comprend un programme de mise en œuvre étape par étape couvrant le registre des actifs, la planification et le suivi de l'exécution, la surveillance de l'état et l'analyse de l'état des actifs.
+
+#### 2017 : DSM Nutritional Products, Suisse et Inde
+L'organisation P2P centralisée de DSM avait du mal à servir DSM Nutritional Products (DNP) de manière satisfaisante. Plutôt que de résoudre les problèmes individuels, nous avons examiné le flux de travail P2P du point de vue du processus principal. Cela a permis de révéler des opportunités (souvent faciles à réaliser) pour une meilleure adéquation.
 
 #### 2016: ProRail, Pays-Bas
 Gestion de la performance des actifs: mise en œuvre d'un plan d'analyse et de signalisation des temps d'arrêt dans deux régions, Randstad-Noord et Zuid (Randstad indiquant ici la région et non la firme bien connue) pour l'infrastructure ferroviaire néerlandaise; Ici, nous avons combiné les données de panne, de performance et celles des ordres de travail pour sous-traitants afin de créer un aperçu quotidien de l'état de l'actif. En plus, cela permettait de suivre la performance des contrats de ProRail avec ses sous-traitants.
