@@ -1,7 +1,7 @@
 ---
 layout: "post"
 title: "Curriculum Vitae"
-permalink: /about
+permalink: /about_old
 ---
 
 ### PROFFESIONAL EXPERIENCE
