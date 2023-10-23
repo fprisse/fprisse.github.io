@@ -26,13 +26,13 @@ Boutique consultancy voor asset intensieve industrieën.  Specialist op het gebi
 - Asset Performance (OEE)
 - Maintenance & Spareparts (Contractor management)
 
-[link naar project beschrijvingen](https://fprisse.github.io/projects_goodfoot_nl)
+[link naar project beschrijvingen (EN)](https://fprisse.github.io/projects_goodfoot)
 
 #### 1999 - 2003 : Strategie Consultant - Gemini Consulting, Utrecht/Londen
 
 Strategie en Operationeel Consultancy gespecialiseerd in het leiden van technologie gedreven verandering.
 
-[link naar project beschrijvingen](https://fprisse.github.io/projects_gemini_nl)
+[link naar project beschrijvingen (EN)](https://fprisse.github.io/projects_gemini)
 
 #### 1999 - 1999 : ParaLegal - Allen & Overy
 
