@@ -25,7 +25,7 @@ Boutique consultancy leading high impact projects for asset intensive industries
 •	Field Service & Logistics (Contractor Management)  
 [click here for project summaries](https://fprisse.github.io/projects_goodfoot) 
 
-#### 1999 – 2003 Strategy Consultant Gemini Consulting, Utrecht/London
+#### 1999 – 2003 Strategy Consultant @ Gemini Consulting, Utrecht/London
 Strategy and Operational Consultancy specialized in leading technology driven change  
 
 [click here for project summaries](https://fprisse.github.io/projects_gemini)
