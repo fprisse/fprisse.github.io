@@ -28,7 +28,7 @@ Strategy and Operational Consultancy specialized in leading technology driven ch
 
 [click here for project summaries](https://fprisse.github.io/projects_gemini)
 
-#### 1999 - 1999 : Legal aid - Allen & Overy
+#### 1999 - 1999 : Paralegal - Allen & Overy
 Intern at Mergers & Acquisition department
 
 #### 1998 - 1999 : Assistant - Shell Global Solutions, the Hague
