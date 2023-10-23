@@ -1,8 +1,7 @@
 ---
 layout: "page"
 title: "Curriculum vitae"
-permalink: /quiest
----
+permalink: /fr
 
 ### EXPÉRIENCE PROFESSIONNELLE
 #### 2011 à ce jour: Consultant - Capgemini Consulting, Amsterdam
