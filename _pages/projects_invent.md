@@ -4,6 +4,10 @@ title: "Project Summaries @ Invent"
 permalink: /projects_invent
 ---
 
+**2020 - 2022 FrieslandCampina**  
+Factory Liason and Industry x0 Expert for FrieslandCampina's smartplant team: A use-case driven program to improve performance in the field of Asset Performace. Taking Asset Health and Quality statistics as a foundation we developed bespoke tools to adress prioritised issues in the field of material loss, quality, energy consumption and unplanned downtime. For this we combined in-cloud tools for exploratory analytics with sturdy on-premise implementations of our findings.
+
+
 **2019 - 2020 LambWeston-Meyer**  
 Industry 4.0 roadmap the work included a capability assessment,  volumetric modelling and a high level level business case.
 
@@ -14,7 +18,7 @@ Design of the suite of solutions for data-driven Asset Management for Capgemini 
 DSM's centralised P2P organisation was struggling to serve DSM Nutritional Products (DNP) to satisfaction. Rather than fix the individual issues, we looked at the P2P workflow from a core-process perspective. Revealing (often easily realised) opportunities for a better match. 
 
 **2016 : ProRail, Netherlands**  
-Asset performance management: Implemented analysis and reporting scheme of downtime in two regions (randstad-Noord and Zuid) for the Dutch railway infrastructure; Befitting the performance contracts between ProRail and its contractors.
+Asset performance management: Implemented analysis and reporting scheme of downtime in two regions (Randstad-Noord and Zuid) for the Dutch railway infrastructure; Befitting the performance contracts between ProRail and its contractors.
 
 **2015 : Capgemini Consulting, Central Europe**  
 An introduction to business unit strategy: Designed course material and conducted training sessions for young consultants of the strategy and transformation discipline.
