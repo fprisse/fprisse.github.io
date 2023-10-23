@@ -1,7 +1,7 @@
 ---
 layout: "post"
 title: "Curriculum vitae"
-permalink: /over_mij
+permalink: over_mij
 ---
 
 ### WERKERVARING
@@ -67,7 +67,7 @@ Wiskundse A+B, natuurkunde, scheikunde, biologie, economie I, engels, nederlands
 - Avondcolleges Bouwkunde - TU Delft
 - Schipper van het opleidingsinstituut van K.N.Z.& R.V*
 
-Het opleidingsinstituut van de Koninklijke Nederlandse Zeilvereniging leidt jongeren tussen de 15 en 22 jaar op tot kapitein op zee. Dit omvat  navigatie, meteorologie en scheepsbehandeling.
+*Het opleidingsinstituut van de Koninklijke Nederlandse Zeilvereniging leidt jongeren tussen de 15 en 22 jaar op tot zeewaardig schipper. Dit omvat gezagvoering, meteorologie en navigatie*
 
 ### VAARDIGHEDEN
 
@@ -76,13 +76,13 @@ Het opleidingsinstituut van de Koninklijke Nederlandse Zeilvereniging leidt jong
 - NOGEPA/OLF - Offshore veiligheid en hulpverlening
 - CRESTA - Toegangsvereiste voor windindustrie technici (zekering en evacuatie)
 
-IT-tools:
+**IT-tools**
 
 - Excell, Powerpoint & Access
 - Infor EAM, IBM-Maximo, Acad, ArcGIS
 - ETS, R, php, JS, html
 
-Talen
+**Talen**
 
 - Engels: Vloeiend, Primaire Werktaal
 - Nederlands: Moedertaal
