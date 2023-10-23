@@ -40,5 +40,6 @@ Het verbeteren van de innovatieagenda van deze geprivatiseerde netwerkbeheerder 
 **2012 : Vopak Europoort, Nederland**
 OPEX reductieprogramma voor de Nederlandse tankterminals van Vopak. 
  - Maintenance & Repairs: Lagere aannemerskosten door in-sourcing en betere planning
- - Operations: vermindering overuren en flexibele arbeid obv. prognose van de personeelsbehoefte
-Het succes van deze onderneming was vooral te danken aan de niet-geïsoleerde aanpak van bovenstaande werkstromen.
+ - Operations: vermindering overuren en flexibele arbeid obv. prognose van de personeelsbehoefte  
+ 
+ Het succes van deze onderneming was vooral te danken aan de niet-geïsoleerde aanpak van bovenstaande werkstromen.
