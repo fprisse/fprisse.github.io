@@ -62,9 +62,9 @@ NOGEPA/OLF - Offshore Safety Induction and Emergency Response
 CRESTA - Access & Evacuation for Wind Industry Technicians  
 
 **Tools**
-Engineering: Infor EAM, IBM-Maximo, ACAD 
-Coding: ETS, R, php, js, html
-Office: Excel, PowerPoint, VS-Code, ArcGIS
+Engineering: Infor EAM, IBM-Maximo, ACAD  
+Coding: ETS, R, php, js, html  
+Office: Excel, PowerPoint, VS-Code, ArcGIS  
 
 **Languages**
 English: Primary Working Language  
