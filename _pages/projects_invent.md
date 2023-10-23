@@ -1,5 +1,5 @@
 ---
-layout: "post"
+layout: "page"
 title: "Project Summaries @ Invent"
 permalink: /projects_invent
 ---

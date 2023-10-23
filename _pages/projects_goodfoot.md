@@ -1,5 +1,5 @@
 ---
-layout: "post"
+layout: "page"
 title: "Project Summaries @ Goodfoot"
 permalink: /projects_goodfoot
 ---

@@ -1,5 +1,5 @@
 ---
-layout: "post"
+layout: "page"
 title: "RÉSUMÉ DES PROJETS @ INVENT"
 permalink: /projects_invent_fr
 ---

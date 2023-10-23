@@ -1,5 +1,5 @@
 ---
-layout: "post"
+layout: "page"
 title: "LE RÉSUMÉ DES PROJETS @ GOODFOOT"
 permalink: /projects_goodfoot_fr
 ---
