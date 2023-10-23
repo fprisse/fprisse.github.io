@@ -4,6 +4,8 @@ title: "Curriculum vitae"
 permalink: /over_mij
 ---
 
+Florent is een senior expert en thoughtleader op het gebied van datagedreven besluitvorming en optimalisatie voor asset-intensieve industrieën: Industrie X.0 & IoT. Hij begeleidt het verbeterproces van analyse en  innovatie tot implementatie en onderhoudsprocess. Brengt eenvoud en transparantie. Florent is een waakzame hoeder van inclusiviteit en diversiteit: Dienstbaar aan klant, werkgever en maatschappij.
+
 ### WERKERVARING
 
 #### 2011 - heden : Consultant - Capgemini Invent
