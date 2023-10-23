@@ -2,6 +2,7 @@
 layout: "page"
 title: "Curriculum vitae"
 permalink: /fr
+---
 
 ### EXPÉRIENCE PROFESSIONNELLE
 #### 2011 à ce jour: Consultant - Capgemini Consulting, Amsterdam
@@ -74,5 +75,5 @@ Math A+B, physique, chimie, biologie, économie,  Anglais, Néerlandais
 
 **Langues**
 
-- Anglais: langue de travail principale
-- Néerlandais: langue maternelle
+- Anglais: langue de travail principale  
+- Néerlandais: langue maternelle  
