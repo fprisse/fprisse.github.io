@@ -1,5 +1,5 @@
 ---
-layout: "post"
+layout: "page"
 title: "LE RÉSUMÉ DES PROJETS @ GEMINI"
 permalink: /projects_gemini_fr
 ---
