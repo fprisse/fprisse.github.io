@@ -61,7 +61,7 @@ Radio Operator License
 NOGEPA/OLF - Offshore Safety Induction and Emergency Response  
 CRESTA - Access & Evacuation for Wind Industry Technicians  
 
-**Tools**
+**Tools**  
 Engineering: Infor EAM, IBM-Maximo, ACAD  
 Coding: ETS, R, php, js, html  
 Office: Excel, PowerPoint, VS-Code, ArcGIS  
