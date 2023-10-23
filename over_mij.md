@@ -1,7 +1,7 @@
 ---
 layout: "post"
 title: "Curriculum vitae"
-permalink: over_mij
+permalink: /over_mij
 ---
 
 ### WERKERVARING
