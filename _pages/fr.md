@@ -42,7 +42,8 @@ LLM en droit néerlandais avec comme spécialisations:
 
 - La loi sur la propriété intellectuelle
 - Le droit européen de la concurrence
-- La gouvernance d'entreprise. Thèse finale: Le rôle du représentant du gouvernement dans le conseil de surveillance des services publics nouvellement privatisés.
+
+Thèse finale: Le rôle du représentant du gouvernement dans le conseil de surveillance des services publics nouvellement privatisés.
 
 #### 1992 - 1993: Economie - Université d'Amsterdam
 #### 1990 - 1992: VWO - β - Rijnlands Lyceum Oegstgeest
