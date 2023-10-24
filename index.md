@@ -62,8 +62,8 @@ math, physics, chemistry, biology, economics, English, Dutch
  - Offshore Competition sailing: Winsome @ Cowes & Cephei @ Frejus
  - Choir singing
  - Evening Classes Architecture - TU Delft
- - Skipper of the training institute of K.N.Z.& R.V  
- 
+ - Skipper of the training institute of K.N.Z.& R.V*  
+
 *The training institute of the Royal Dutch Sailing Association trains youth between 15 and 22 years of age to master yachts at sea. This includes navigation, meteorology, and ship handling*
 
 **Skills & Permits**  
