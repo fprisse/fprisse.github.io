@@ -4,7 +4,7 @@ title: "Curriculum Vitae"
 permalink: /
 ---
 
-Florent is a senior expert in data-driven optimisation for asset intensive industries: Industry X.0 & IoT. Hands-on supervision of the improvement process from advanced analytics and innovation to implementation and performance management. Brings simplicity and transparency. Florent is a vigilant defender of inclusiveness and diversity: “Stuff that adds up” for the benefit of client, employer and society at large.
+Florent is an expert at data-driven optimisation for asset intensive industries: Industry X.0 & IoT. Hands-on supervision of the improvement process from advanced analytics and innovation to implementation and performance management. Brings simplicity and transparency. Florent is a vigilant defender of inclusiveness and diversity: “Stuff that adds up” for the benefit of client, employer and society at large.
 
 ### EXPERIENCE
 
