@@ -45,7 +45,7 @@ Helped to set-up a corporate recruiting agency for IT professionals
 
 #### 1999 LLM Corporate Governance @ University of Amsterdam
 
-Final thesis: Role of the government representative on supervisory boards of utility companies
+Final thesis: Role of the government representative on supervisory boards of utility companies  
 2nd Major in Intellectual property law
 
 #### 1993 Economics @ University of Amsterdam
