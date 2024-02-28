@@ -4,7 +4,10 @@ title: "Project Summaries @ Invent"
 permalink: /projects_invent
 ---
 
-**2020 - 2022 FrieslandCampina**  
+**2024 - >>>> Gasunie**  
+Gasunie operates the Dutch distribution network for natural gas. After decades of fairly uniform operations, Gasunie's infrastructure is now rapidly becoming more complex due to its role in hydrogen distribution LNG Blend-in and seasonal storage. As a result, it is shifting its heavypung from maintenance to engineering and construction and must work with a wider range of engineering and construction partners. We design and implement a comprehensive suite of data-driven solutions and work processes in the areas of design, project management, 3D modeling, monitoring and maintenance to optimise this.
+
+**2020 - 2023 FrieslandCampina**  
 Factory Liason and Industry x0 Expert for FrieslandCampina's smartplant team: A use-case driven program to improve performance in the field of Asset Performace. Taking Asset Health and Quality statistics as a foundation we developed bespoke tools to adress prioritised issues in the field of material loss, quality, energy consumption and unplanned downtime. For this we combined in-cloud tools for exploratory analytics with sturdy on-premise implementations of our findings.
 
 

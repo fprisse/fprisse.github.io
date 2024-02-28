@@ -4,7 +4,10 @@ title: "Project Overzicht @ Invent"
 permalink: /projects_invent_nl
 ---
 
-**2020 - 2022 FrieslandCampina**  
+**2024 - >>>> Gasunie**  
+Gasunie beheert het nationale distributienetwerk voor aardgas. Na een decennialange behoorlijk uniforme operatie wordt de infrastructuur van Gasunie nu snel complexer door haar rol in waterstofdistributie, LNG Blend-in en seizoensopslag. Hierdoor verschuif het zwaartpunt van onderhoud naar engineering en constructie en moet ze samenwerken met een breder scala aan engineering- en constructiepartners. Wij ontwerpen en implementeren een uitgebreide suite van datagestuurde oplossingen en werkprocessen op het gebied van ontwerp, projectmanagement, 3D-modellering, monitoring en onderhoud om te optimaliseren.
+
+**2020 - 2023 FrieslandCampina**  
 Factory Liason en Industry x0 Expert voor het smartplant team van FrieslandCampina: Een use-case gedreven programma ter verbetering van energie- en grondstofverbruik. Met installatie en product metingen als basis, ontwikkelden we op maat gemaakte tools om issues op het gebied van materiaalverlies, kwaliteit, energieverbruik en ongeplande stilstand aan te pakken. Hiervoor combineerden we *in-cloud* tools voor verkennende analyses met robuuste *on-premise* implementaties van onze bevindingen.
 
 **2019 - 2020 LambWeston-Meyer**  
