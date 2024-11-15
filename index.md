@@ -44,6 +44,9 @@ Final thesis: Role of the government representative on supervisory boards of uti
 #### 1993 Economics @ University of Amsterdam
 Undergraduate Program
 
+#### 2024 Private tuition
+Post Msc Course, Sustainable Finance and Impact Investing
+
 #### 1992 VWO – β @ Rijnlands Lyceum Oegstgeest
 math, physics, chemistry, biology, economics, English, Dutch
 
@@ -58,9 +61,11 @@ math, physics, chemistry, biology, economics, English, Dutch
 
 **Skills & Permits**  
  - NL Driving License (b) & Boating Permit (vaarbewijs I+II)
+ - UAV Pilot Licence, A1/A3 +A2
  - Radio Operator License
- - NOGEPA/OLF - Offshore Safety Induction and Emergency Response
+ - OPITO/BOSIET/NOGEPA - Offshore Safety Induction and Emergency Response Training
  - CRESTA - Access & Evacuation for Wind Industry Technicians
+ - Shell RBI program - Black Belt, Lean - Six Sigma
 
 **Tools**
  - Engineering: Infor EAM, IBM-Maximo, ACAD
