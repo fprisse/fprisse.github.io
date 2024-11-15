@@ -66,6 +66,7 @@ math, physics, chemistry, biology, economics, English, Dutch
  - OPITO/BOSIET/NOGEPA - Offshore Safety Induction and Emergency Response Training
  - CRESTA - Access & Evacuation for Wind Industry Technicians
  - Shell RBI program - Black Belt, Lean - Six Sigma
+ - Capgemini - SAFe, Scaled Agile Framework
 
 **Tools**
  - Engineering: Infor EAM, IBM-Maximo, ACAD
