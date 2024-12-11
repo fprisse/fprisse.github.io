@@ -1,7 +1,7 @@
 ---
 layout: "post"
 title: "Curriculum Vitae"
-permalink: fprisse.github.io
+permalink: /
 ---
 
 # Florent Prisse - Innovation Manager
