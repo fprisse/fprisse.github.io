@@ -1,17 +1,21 @@
 ---
 layout: "post"
 title: "Curriculum Vitae"
-permalink: /
+permalink: fprisse.github.io
 ---
-Florent is an expert at data-driven optimisation for asset intensive industries: Industry X.0 & IoT. Hands-on supervision of the improvement process from advanced analytics and innovation to implementation and performance management. Brings simplicity and transparency. Florent is a vigilant defender of inclusiveness and diversity: “Stuff that adds up” for the benefit of client, employer and society at large.
+
+# Florent Prisse - Innovation Manager
+
+Florent is an expert at data-driven optimisation and hardware innovation. Hands-on supervision of the improvement process from analytics & innovation to implementation & performance management. Brings simplicity and transparency. Florent is a vigilant defender of inclusiveness and diversity: “Stuff that adds up” for the benefit of client, employer and society at large.
 
 ### EXPERIENCE
 #### 2011 – to date: Consultant @ Capgemini Invent, Utrecht
 Content matter expert on hardware innovation and performance management in asset intensive industries such as manufacturing, upstream energy and public infrastructure. Improving uptime and quality through equipment reliability and production control. Creating a near real-time view upon the state of the asset and process through:
  - Performance management & quality (Ops & AM)
  - Planning, scheduling & contractor management
- - Advanced analytics & Industrial IoT  
-  
+ - Advanced analytics & Industrial IoT
+ - Hardware Innovation  
+
 [click here for project summaries](https://fprisse.github.io/projects_invent)
 
 #### 2018 - 2020 : Practice lead APM @ Capgemini Group, Paris
@@ -22,12 +26,12 @@ Boutique consultancy leading high impact projects for asset intensive industries
 •	Innovation management
 •	Operational excellence (OEE)
 •	Field Service & Logistics (Contractor Management)  
-  
+
 [click here for project summaries](https://fprisse.github.io/projects_goodfoot)
 
 #### 1999 – 2003 Strategy Consultant @ Gemini Consulting, Utrecht/London
 Strategy and Operational Consultancy specialized in leading technology driven change  
-  
+
 [click here for project summaries](https://fprisse.github.io/projects_gemini)
 
 #### 1999 - 1999 Intern @ Allen & Overy, Amsterdam
@@ -52,26 +56,41 @@ math, physics, chemistry, biology, economics, English, Dutch
 
 ### OTHER
 **Activities**
- - Offshore Competition sailing: Winsome @ Cowes & Cephei @ Frejus
- - Choir singing
+ - Offshore Competition sailing, Navigator : Winsome @ Cowes
+ - Skipper of the training institute of K.N.Z.& R.V* 
  - Evening Classes Architecture - TU Delft
- - Skipper of the training institute of K.N.Z.& R.V*  
+ - Unmanned fixed-wing flight
 
 *The training institute of the Royal Dutch Sailing Association trains youth between 15 and 22 years of age to master yachts at sea. This includes navigation, meteorology, and ship handling*
 
+
+
 **Skills & Permits**  
- - NL Driving License (b) & Boating Permit (vaarbewijs I+II)
- - UAV Pilot Licence, A1/A3 +A2
- - Radio Operator License
- - OPITO/BOSIET/NOGEPA - Offshore Safety Induction and Emergency Response Training
+
+ - NOGEPA - Offshore Safety Induction and Emergency Response Training (huet)
+
  - CRESTA - Access & Evacuation for Wind Industry Technicians
+
+ - NL Driving License (b) & Boating Permit (vaarbewijs I+II)
+
  - Shell RBI program - Black Belt, Lean - Six Sigma
+
  - Capgemini - SAFe, Scaled Agile Framework
+
+ - UAV Pilot Licence, A1/A3 +A2
+
+ - Radio Operator License
+
+   
 
 **Tools**
  - Engineering: Infor EAM, IBM-Maximo, ACAD
- - Coding: ETS, R, php, js, html
+
  - Office: Excel, PowerPoint, VS-Code, ArcGIS
+
+ - Coding: ETS, php, js, html, python
+
+   
 
 **Languages**
  - English: Primary Working Language
