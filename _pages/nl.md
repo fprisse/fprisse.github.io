@@ -45,8 +45,8 @@ Stagiair op de afdeling Fusies & Overnames
 
 ### OPLEIDING
 
-#### 2025-2026: Military Law @ University of Amsterdam
-Specialized master module in International Humanitarian Law, legal aspects of military operations, state use of force, and military personnel rights and obligations.
+#### 2025-2026: Militair recht @ University of Amsterdam
+Specializatie master module in Internationaal Humanitair Recht, Recht van military operaties, Legitimiteit van staatsgeweld en de rechten en plichten van militairen.
 
 #### 1993 - 1999 : Rechten - Universiteit van Amsterdam
 
