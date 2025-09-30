@@ -43,7 +43,7 @@ Helped to set-up a corporate recruiting agency for IT professionals
 ### EDUCATION
 
 
-#### 2025-2026: Military Law @ University of Amsterdam 
+#### 2025 Military Law @ University of Amsterdam 
 Specialized master module in International Humanitarian Law, legal aspects of military operations, state use of force, and military personnel rights and obligations.
 
 #### 1999 LLM Corporate Governance @ University of Amsterdam
