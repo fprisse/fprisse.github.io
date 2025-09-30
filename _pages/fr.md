@@ -5,7 +5,7 @@ permalink: /fr
 ---
 
 ### EXPÉRIENCE PROFESSIONNELLE
-#### 2011 à ce jour: Consultant - Capgemini Consulting, Amsterdam
+#### 2011 - 2025: Consultant - Capgemini Consulting, Amsterdam
 Expert en contenu sur l'innovation matérielle et la gestion d'actifs dans les iindustries à forte intensité d'actifs telles que la fabrication, l'énergie en amont et les infrastructures publiques. Amélioration de la disponibilité (uptime) et de la qualité par la fiabilité de l'équipement et le  contrôle de la production. Création d'une information en temps quasi réel (near realtime) sur l'état de l'actif et du processus par les:
 - Planification, programmation et approvisionnement
 - Maintenance prédictive pilotée par les données
@@ -36,8 +36,10 @@ Unification des procédures d'embauche aux Royaume-Uni et Pays-Bas. Mise en plac
 
 ### FORMATION / ÉTUDES
 
-#### 1993 - 1999: Droit - Université d'Amsterdam
+#### 2025-2026 : Droit militaire @ Université d'Amsterdam
+Module de master spécialisé en droit international humanitaire, aspects juridiques des opérations militaires, usage de la force par l'État, et droits et obligations du personnel militaire.
 
+#### 1993 - 1999: Droit - Université d'Amsterdam
 LLM en droit néerlandais avec comme spécialisations:
 
 - La loi sur la propriété intellectuelle
