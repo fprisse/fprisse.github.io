@@ -9,7 +9,7 @@ permalink: /
 Florent is an expert at data-driven optimisation and hardware innovation. Hands-on supervision of the improvement process from analytics & innovation to implementation & performance management. Brings simplicity and transparency. Florent is a vigilant defender of inclusiveness and diversity: “Stuff that adds up” for the benefit of client, employer and society at large.
 
 ### EXPERIENCE
-#### 2011 – to date: Consultant @ Capgemini Invent, Utrecht
+#### 2011 – 2025: Consultant @ Capgemini Invent, Utrecht
 Content matter expert on hardware innovation and performance management in asset intensive industries such as manufacturing, upstream energy and public infrastructure. Improving uptime and quality through equipment reliability and production control. Creating a near real-time view upon the state of the asset and process through:
  - Performance management & quality (Ops & AM)
  - Planning, scheduling & contractor management
@@ -41,6 +41,11 @@ Intern at Mergers & Acquisition department
 Helped to set-up a corporate recruiting agency for IT professionals
 
 ### EDUCATION
+
+
+#### 2025-2026: Military Law @ University of Amsterdam 
+Specialized master module in International Humanitarian Law, legal aspects of military operations, state use of force, and military personnel rights and obligations.
+
 #### 1999 LLM Corporate Governance @ University of Amsterdam
 Final thesis: Role of the government representative on supervisory boards of utility companies  
 2nd Major in Intellectual property law  
