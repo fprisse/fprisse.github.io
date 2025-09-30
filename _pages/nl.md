@@ -8,7 +8,7 @@ Florent is een expert in datagedreven optimalisatie voor asset-intensieve indust
 
 ### WERKERVARING
 
-#### 2011 - heden : Consultant - Capgemini Invent
+#### 2011 - 2025 : Consultant - Capgemini Invent
 
 Expert in datagedreven verbetering en onderhoud. Bedient met name klanten in de Publieke infrastructuur, Energie en Maakindustrie. Uitkomsten zijn verbeterde beschikbaarheid van installaties, verminderd energieverbruik en voorspelbaarheid van investeringen en onderhoud. Intelligent Operations: Het creëren van een bijna realtime overzicht van de staat van de installaties en de werkprocessen te dienste van:
 
@@ -44,6 +44,9 @@ Stagiair op de afdeling Fusies & Overnames
 - Werving en selectie van IT talent
 
 ### OPLEIDING
+
+#### 2025-2026: Military Law @ University of Amsterdam
+Specialized master module in International Humanitarian Law, legal aspects of military operations, state use of force, and military personnel rights and obligations.
 
 #### 1993 - 1999 : Rechten - Universiteit van Amsterdam
 
