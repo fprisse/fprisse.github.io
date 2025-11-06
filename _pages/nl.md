@@ -67,6 +67,7 @@ Wiskundse A+B, natuurkunde, scheikunde, biologie, economie I, engels, nederlands
 #### 1985 - 1990 : HAVO - Rijnlands Lyceum Oegstgeest
 
 ### NEVENACTIVITEITEN
+- Reservist Koninklijke Marine
 - Offshore wedstrijd zeilen "Team Winsome" - Cowes
 - Koor zingen
 - Avondcolleges Bouwkunde - TU Delft
